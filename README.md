@@ -1,5 +1,7 @@
 # Installing the Prisma VPN on Linux
 This is a short how-to for people on Linux at the University of Nebraska Omaha to install the Prisma VPN.
+<br/>
+The address for the VPN is now: nu-vpn.nebraska.edu
 
 # Method 1: Script Install
 Download the script from https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/blob/main/installVPN.sh
@@ -24,6 +26,7 @@ This will go through the process of installation and will bring up the connect U
 After this, you will need to use the following command to open the UI at any other point if you need to disconnect/reconnect. 
 <br/>
 Command: globalprotect launch-ui
+<br/>
 <br/>
 
 If you have any issues, please contact us in the Systems Office.
