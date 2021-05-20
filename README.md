@@ -9,6 +9,7 @@ Download the script from https://github.com/UNO-IST-Support/installPrismaVPNLinu
 You may need to copy paste it into a .sh file.
 <br/>
 Once the file has downloaded/been created, run the script: ./installVPN.sh
+<br/>
 Note: You may need to run chmod +x to make it executable.
 <br/>
 This should install the dependencies and the VPN. This will also give you the command to launch the UI after it is installed.
