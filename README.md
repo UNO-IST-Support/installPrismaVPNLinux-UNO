@@ -31,7 +31,7 @@ After this, you will need to use the following command to open the UI at any oth
 Command: `globalprotect launch-ui`
 <br/>
 <br/>
-## If for any reason you need to uninstall this software, please run this command: `sudo dpkg -P GlobalProtect`
+## If you need to uninstall this software, please run this command: `sudo dpkg -P GlobalProtect`
 
 If you have any issues, please contact us in the Systems Office.
 
