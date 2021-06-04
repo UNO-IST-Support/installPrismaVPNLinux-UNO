@@ -16,7 +16,9 @@ This should install the dependencies and the VPN. This will also give you the co
 <br/>
 <br/>
 # Method 2: Manual Install
-Run this command: `wget https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/raw/main/GlobalProtect_UI_deb-5.2.6.0-18.deb`
+Run this command:
+<br/>
+`wget https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/raw/main/GlobalProtect_UI_deb-5.2.6.0-18.deb`
 <br/>
 Run the next command: `sudo apt-get install -y libqt5webkit5`
 <br/>
