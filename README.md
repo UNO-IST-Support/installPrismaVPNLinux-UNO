@@ -8,7 +8,7 @@ Download the script from https://github.com/UNO-IST-Support/installPrismaVPNLinu
 <br/>
 You may need to copy paste it into a .sh file.
 <br/>
-Once the file has downloaded/been created, run the script: ./installVPN.sh
+Once the file has downloaded/been created, run the script: `./installVPN.sh`
 <br/>
 Note: You may need to run chmod +x to make it executable.
 <br/>
@@ -16,19 +16,20 @@ This should install the dependencies and the VPN. This will also give you the co
 <br/>
 <br/>
 # Method 2: Manual Install
-Run this command: wget https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/raw/main/GlobalProtect_UI_deb-5.2.6.0-18.deb
+Run this command: `wget https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/raw/main/GlobalProtect_UI_deb-5.2.6.0-18.deb`
 <br/>
-Run the next command: sudo apt-get install -y libqt5webkit5
+Run the next command: `sudo apt-get install -y libqt5webkit5`
 <br/>
-Once that finishes, run the last command: sudo dpkg -i GlobalProtect_UI_deb-5.2.6.0-18.deb
+Once that finishes, run the last command: `sudo dpkg -i GlobalProtect_UI_deb-5.2.6.0-18.deb`
 <br/>
 This will go through the process of installation and will bring up the connect UI for the first time.
 <br/>
 After this, you will need to use the following command to open the UI at any other point if you need to disconnect/reconnect. 
 <br/>
-Command: globalprotect launch-ui
+Command: `globalprotect launch-ui`
 <br/>
 <br/>
+## If for any reason you need to uninstall this software, please run this command: `sudo dpkg -P GlobalProtect`
 
 If you have any issues, please contact us in the Systems Office.
 
