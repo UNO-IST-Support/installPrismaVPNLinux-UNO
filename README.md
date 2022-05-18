@@ -26,6 +26,7 @@ Run the next command: `sudo apt-get install -y libqt5webkit5`
 Once that finishes, run the last command: `sudo dpkg -i GlobalProtect_UI_deb-5.2.6.0-18.deb`
 <br/>
 This will go through the process of installation and will bring up the connect UI for the first time.
+If you get an error stating it cannot connect to the GDP process after installation, a quick reboot usually does the trick. Try this after pretty much any error you may receive. 
 <br/>
 After this, you will need to use the following command to open the UI at any other point if you need to disconnect/reconnect. 
 <br/>
