@@ -13,6 +13,7 @@ Once the file has downloaded/been created, run the script: `./installVPN.sh`
 Note: You may need to run chmod +x to make it executable.
 <br/>
 This should install the dependencies and the VPN. This will also give you the command to launch the UI after it is installed.
+If you get an error stating it cannot connect to the GDP process after installation, a quick reboot usually does the trick. Try this after pretty much any error you may receive. 
 <br/>
 <br/>
 # Method 2: Manual Install
