@@ -5,6 +5,7 @@ The address for the VPN is now: nu-vpn.nebraska.edu
 
 # Method 1: Script Install
 Download the script from https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/blob/main/installVPN.sh
+<br/>
 `wget https://github.com/UNO-IST-Support/installPrismaVPNLinux-UNO/blob/main/installVPN.sh`
 <br/>
 You may need to copy paste it into a .sh file.
